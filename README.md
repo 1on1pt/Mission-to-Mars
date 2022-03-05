@@ -39,6 +39,9 @@ Software:
  * Python 3.7.6
  * Pandas 1.3.5
  * Jupyter Notebook
+ * MongoDB
+ * Visual Studio Code 1.65
+ * Flask
 
 ## Deliverable 1:  Scrape Full-Resolution Mars Hemisphere Images and Titles
 
