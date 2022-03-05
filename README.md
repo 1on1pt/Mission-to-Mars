@@ -25,6 +25,7 @@ Websites:
  * https://spaceimages-mars.com
  * https://galaxyfacts-mars.com
  * https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
+ * https://redplanetscience.com
 
 
 Code:
@@ -36,7 +37,7 @@ Code:
 
 
 Software:
- * Python 3.7.6
+ * Python 3.7.11
  * Pandas 1.3.5
  * Jupyter Notebook
  * MongoDB
@@ -44,6 +45,16 @@ Software:
  * Flask
 
 ## Deliverable 1:  Scrape Full-Resolution Mars Hemisphere Images and Titles
+The goal of this deliverable was to use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images and store in a dictionary.  In order to achieve this deliverable, the following steps were taken:
+ * Code is written that retrieves the full-resolution image and title for each hemisphere image
+ * The full-resolution images of the hemispheres are added to the dictionary
+ * The titles for the hemisphere images are added to the dictionary
+ * The list contains the dictionary of the full-resolution image URL string and title for each hemisphere image
+
+Here is the original code and output:
+![mars_hemi_images_titles_original_code](https://user-images.githubusercontent.com/94148420/156899089-e732452b-735e-4100-8867-ac36b4839a3b.PNG)
+
+
 
 
 
