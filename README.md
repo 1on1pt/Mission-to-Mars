@@ -21,7 +21,24 @@ Robin built into her web page the ability to click the **Scrape New Data** butto
 Finally, she polished the website by using various Bootstrap components.
 
 ### Resources
+Websites:
+ * https://spaceimages-mars.com
+ * https://galaxyfacts-mars.com
+ * https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
 
+
+Code:
+ * Mission_to_Mars_Challenge.ipynb
+ * Mission_to_Mars_Challenge.py
+ * scraping.py
+ * app.py
+ * index.html
+
+
+Software:
+ * Python 3.7.6
+ * Pandas 1.3.5
+ * Jupyter Notebook
 
 ## Deliverable 1:  Scrape Full-Resolution Mars Hemisphere Images and Titles
 
